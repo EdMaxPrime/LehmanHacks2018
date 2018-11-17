@@ -1,0 +1,92 @@
+.section {
+    height: 100vh;
+    text-align: center;
+    color: white;
+    /* padding-top: 56px;
+    margin-bottom: 56px; */
+}
+
+.jumbotron{
+    text-align: center;
+    color: white;
+    background-image: url("images/jumboimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    filter: grayscale(100%);
+}
+
+.jumbotext{
+    background-color: rgba(0, 0, 0, 0.7)
+}
+.trial{
+    border-radius: 25px;
+}
+
+#slogan{
+    font-size: 60px;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    padding-top: 5vh;
+}
+
+#subtext{
+    font-size: 30px;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    padding-bottom: 5vh;
+}
+
+#div1{
+    background-color: darkolivegreen;
+    padding-top: 10vh;
+    
+}
+
+#about{
+    font-size: 35px;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    padding-top: 5vh;
+}
+
+#div2{
+    margin-top: 10vh;
+    background-color: white;
+    background-image: url("images/stats.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#div3{
+    background-color: darkolivegreen;
+    padding-top: 10vh;
+}
+
+#process{
+    padding-top: 5vh;
+    text-align: center;
+}
+
+#steptext1{
+    padding-top: 9vh;
+}
+
+#steptext2{
+    padding-top: 5vh;
+}
+
+#steptext3{
+    padding-top: 5vh;
+}
+
+#div4{
+    background-color: darkgray;
+    filter: grayscale(100%);
+    padding-top: 10vh;    
+}
+
+.links{
+    font-size: 40px;
+}
+
